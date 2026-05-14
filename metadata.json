@@ -1,22 +1,21 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Exercise: VS Code File Management",
+    "slug": "exercise-vs-code-file-management",
+    "description": "In this exercise you will practice using the Visual Studio Code (VS Code) File Explorer to manage files in the VS Code interface.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "vs-code",
+        "exercise",
+        "codespace"
     ],
-    "duration": 0,
+    "duration": 5,
     "prerequisites": [
-        "",
-        ""
+        "atomic-learning-codespaces",
+        "programming-paths",
+        "vs-code-file-explorer"
     ],
     "related": [
-        "",
-        ""
     ]
 }
